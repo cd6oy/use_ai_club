@@ -1,5 +1,11 @@
 # Youth AI Engineering Club
 
-A community-based AI Engineering club for high school students.
+A community-based AI Engineering club for high school students practicing the **learn → practice → share** loop across real domains.
 
-See `proposal.md` for the founding proposal.
+## Structure
+
+```
+specs/    ← club proposals and specs
+```
+
+See [`specs/proposal.md`](specs/proposal.md) for the founding proposal.
